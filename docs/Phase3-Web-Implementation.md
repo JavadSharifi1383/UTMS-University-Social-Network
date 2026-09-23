@@ -1,0 +1,2 @@
+Phase 3: Web Application Integration
+In this final phase, the command-line interface (CLI) of the UTMS system was replaced with a graphical user interface (GUI). The core C++ logic developed in Phases 1 and 2 was integrated with a web framework, enabling users (Students, Professors, and Admins) to interact with the university social network directly through a web browser.
